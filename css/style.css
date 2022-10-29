@@ -525,7 +525,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
   gap: 1%;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 .main__content {
   -webkit-box-flex: 0;
